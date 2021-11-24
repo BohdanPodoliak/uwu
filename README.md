@@ -1,3 +1,3 @@
-Numerical-Methods-of-Programming
-Bohdan Podoliak
-FIT 2-5
+# Numerical-Methods-of-Programming
+# Bohdan Podoliak
+# FIT 2-5
