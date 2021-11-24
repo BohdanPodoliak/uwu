@@ -1,3 +1,3 @@
 Numerical-Methods-of-Programming
-Sviatenko Dmytro
+Bohdan Podoliak
 FIT 2-5
